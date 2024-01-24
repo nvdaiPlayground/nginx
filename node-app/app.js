@@ -5,7 +5,7 @@ const port = 1506;
 
 // Define a route
 app.get("/hello", (req, res) => {
-  res.send("Hello, this is a simple Express apppp!");
+  res.send("Hello, this is a simple Express app!");
 });
 
 // Start the server
